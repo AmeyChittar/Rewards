@@ -10,9 +10,9 @@ Given a record of every transaction during a three month period, calculate the r
 
 Given a record of every transaction during a three month period, calculate the reward points earned for each customer per month and total.
 
-Make up a data set to best demonstrate your solution
-Check solution into GitHub
+#Note
 
+I have included the DB screenshots and the json results of postman in the document attached. 
 
 ###To Run this project locally
 
